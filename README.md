@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on my data analyst nanaodegree(on the last chapter
+🔭 I’m currently working on my data analyst nanaodegree(on the last chapter)<br>
 🌱 I’m currently learning data visualisation

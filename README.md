@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 
-<!--🔭 I’m currently working on my data analyst nanaodegree(on the last chapter)<br>--> 
+<!--🔭 I’m currently working on my data analyst nanaodegree(on the last chapter)<br>
 🌱 I’m currently learning sql
 <br>
-
+--> 
 
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif" alt="" width="100%"/>

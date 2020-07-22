@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 🌱 I’m currently learning sql
 <br>
 --> 
-
+🌱 I’m currently learning machine learning and competitiv coding
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif" alt="" width="100%"/>

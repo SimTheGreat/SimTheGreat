@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-
+Go to www.menti.com and use the code 21 36
+<img src="https://static.mentimeter.com/screenshot/1-favorite-coding-language.jpg?url=https%3A%2F%2Fwww.mentimeter.com%2Fs%2F4614e6cb6bdbec58b4fe8260eb076c60%2F2ce3629910d0%2Fpreview&maxage=600&w=1920&h=1080&cache_buster=7"> <img/>
 <!--🔭 I’m currently working on my data analyst nanaodegree(on the last chapter)<br>
 🌱 I’m currently learning sql
 <br>

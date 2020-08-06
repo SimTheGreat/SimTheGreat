@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 --> 
 🌱 I’m currently learning machine learning and competitiv coding
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif" alt="" width="100%"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simsalabim1&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+ 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=simsalabim1&hide=contribs,prs&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simsalabim1&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-           
+

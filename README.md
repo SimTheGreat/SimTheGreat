@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 
 
 
-🌱 I’m currently learning machine learning and competitiv coding<br>
+🌱 I’m currently learning machine learning and competitiv coding
 💬 Ask me about anything <a href="https://github.com/simsalabim1/simsalabim1/issues"> here</a><br>
-👯 I’m looking to collaborate on a data analysis project<br>
+👯 I’m looking to collaborate on a data analysis project<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simsalabim1&theme=dracula&notebook)](https://github.com/anuraghazra/github-readme-stats)<br>
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif" alt="" width="100%"/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simsalabim1&theme=dracula&notebook)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=simsalabim1&hide=contribs,prs&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=simsalabim1&hide=contribs,prs&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
  
 
 

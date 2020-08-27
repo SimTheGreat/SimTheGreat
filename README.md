@@ -20,14 +20,14 @@ Here are some ideas to get you started:
 <br>
 --> 
 
-
+<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif" alt="" width="50%"/>
 
 
 
 🌱 I’m currently learning machine learning and competitiv coding<br>
 💬 Ask me about anything <a href="https://github.com/simsalabim1/simsalabim1/issues"> here</a><br>
 👯 I’m looking to collaborate on a data analysis project<br>
-<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif" alt="" width="100%"/>
+
 
  
  

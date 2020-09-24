@@ -23,9 +23,8 @@ Here are some ideas to get you started:
 
 
 
-🌱 I’m currently learning machine learning and competitiv coding<br>
+🌱 I’m currently taking part in a coding oloympics<br>
 💬 Ask me about anything <a href="https://github.com/simsalabim1/simsalabim1/issues"> here</a><br>
-👯 I’m looking to collaborate on a data analysis project<br>
 
 
  

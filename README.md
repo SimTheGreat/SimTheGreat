@@ -1,5 +1,6 @@
 ### Hello World 👋🌍
-![](https://komarev.com/ghpvc/?username=Simsalabim1)
+![](https://komarev.com/ghpvc/?username=Simsalabim1&label=PROFILE+VISITORS)
+
 <!--
 **simsalabim1/simsalabim1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

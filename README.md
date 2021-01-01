@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 
-🌱 I’m currently taking part in a coding oloympics<br>
+🌱 I’m currently taking making  the lego colesseum<br>
 💬 Ask me about anything <a href="https://github.com/simsalabim1/simsalabim1/issues"> here</a><br>
 
 

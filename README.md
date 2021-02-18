@@ -24,8 +24,9 @@ Here are some ideas to get you started:
 
 
 
-🌱 I’m currently making  the lego colesseum<br>
+🌱 I’m currently doing the openmined fedrated learning course and udacities intro to machine learning course<br>
 💬 Ask me about anything <a href="https://github.com/simsalabim1/simsalabim1/issues"> here</a><br>
+please tell me if I make a spelling mistake somewhere
 
 
  

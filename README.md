@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 
-🌱 I’m currently doing the openmined fedrated learning course and udacities intro to machine learning course<br>
+🌱 I’m currently doing the openmined fedrated learning course <br>
 💬 Ask me about anything <a href="https://github.com/simsalabim1/simsalabim1/issues"> here</a><br>
 please tell me if I make a spelling mistake somewhere
 
@@ -32,7 +32,7 @@ please tell me if I make a spelling mistake somewhere
  
  
  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simsalabim1&theme=dracula&notebook&hide=jupyter%20notebook,HTML" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simsalabim1&theme=dracula&notebook&hide=jupyter%20notebook,HTML" />
 </a><a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=simsalabim1&hide=contribs,prs&count_private=true&show_icons=true&theme=dracula" />
 </a>

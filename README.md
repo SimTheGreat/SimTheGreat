@@ -16,15 +16,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 
-<!--🔭 I’m currently working on my data analyst nanaodegree(on the last chapter)<br>
-🌱 I’m currently learning sql
-<br>
---> 
 
 
 
 
-
+🔭 I’m currently working on the google foobar challange
 please tell me if I make a spelling mistake somewhere
 
 

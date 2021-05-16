@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 
-🔭 I’m currently working on the google foobar challange
+🔭 I’m currently working on the google foobar challange<br>
 please tell me if I make a spelling mistake somewhere
 
 

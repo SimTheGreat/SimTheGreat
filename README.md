@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 
-please tell me if I make a spelling mistake somewhere
+
 
 
  
